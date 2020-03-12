@@ -50,7 +50,7 @@ pickleshare==0.7.5
 plotly==3.9.0
 prometheus-client==0.6.0
 prompt-toolkit==2.0.9
-psutil==5.6.2
+psutil==5.6.6
 pyarmor==5.5.3
 pycparser==2.19
 pygal==2.4.0
